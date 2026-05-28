@@ -1,5 +1,8 @@
 # Text2SQL com Qwen2.5-Coder
 
+<p align="center"><img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWZ2b3V5azZpdGJlc3o4YjFsZGRoeTRpY2prbGR1dWk2Z2Y0bGU0MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cNZmQ1qfjIZa4Xr3VE/giphy.gif" /></p>
+
+
 Projeto didático que converte perguntas em português para consultas SQL usando um LLM local, sem frameworks externos como LangChain.
 
 ## O que é e qual problema resolve
