@@ -1,0 +1,11 @@
+[project]
+name = "text2sql-qwen"
+version = "0.1.0"
+description = "Projeto didático de Text2SQL com SQLite e Qwen2.5-Coder"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "accelerate>=1.13.0",
+    "torch>=2.12.0",
+    "transformers>=5.9.0",
+]
